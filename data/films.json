@@ -16,7 +16,29 @@
       "source": "https://www.honaronline.ir/بخش-سینما-6/208735-نبرد-بادبادک-ها-در-سینما-فیلم-جواد-عزتی-امیر-جعفری-اکران-شد",
       "sourceLabel": "هنرآنلاین، ۶ آبان",
       "verified": "۱۴۰۵/۰۸/۱۶",
-      "summary": "فیلم تازه‌اکران‌شده به کارگردانی برزو نیک‌نژاد؛ اطلاعات داستان و زمان‌بندی سالن‌ها پس از تأیید تکمیل می‌شود."
+      "summary": "فیلم تازه‌اکران‌شده به کارگردانی برزو نیک‌نژاد؛ اطلاعات داستان و زمان‌بندی سالن‌ها پس از تأیید تکمیل می‌شود.",
+      "media": {
+        "posterPage": "https://www.honaronline.ir/بخش-سینما-6/208688-رونمایی-از-بورسیه",
+        "gallery": [
+          {
+            "title": "پوستر رسمی بورسیه",
+            "url": "https://www.honaronline.ir/بخش-سینما-6/208688-رونمایی-از-بورسیه",
+            "type": "source"
+          }
+        ],
+        "trailers": [
+          {
+            "title": "تماشای تیزر بورسیه",
+            "url": "https://setare.com/fa/news/826168/فیلم-بورسیه-برزو-نیک-نژاد/",
+            "type": "source"
+          },
+          {
+            "title": "تیزر و گزارش اکران",
+            "url": "https://www.asianewsiran.com/fa/newsagency/42273/boursiye-release-cast",
+            "type": "source"
+          }
+        ]
+      }
     },
     {
       "slug": "nabard-badbadakha",
@@ -29,7 +51,24 @@
       "source": "https://www.tasnimnews.ir/fa/news/1405/08/05/3733752/آنونس-رسمی-نبرد-بادبادک-ها-منتشر-شد",
       "sourceLabel": "تسنیم، ۵ آبان",
       "verified": "۱۴۰۵/۰۸/۱۶",
-      "summary": "انیمیشن سه‌بعدی ۸۰ دقیقه‌ای درباره مقاومت نوجوانان جزیره‌ای در خلیج فارس در برابر تسخیر فناوری‌محور."
+      "summary": "انیمیشن سه‌بعدی ۸۰ دقیقه‌ای درباره مقاومت نوجوانان جزیره‌ای در خلیج فارس در برابر تسخیر فناوری‌محور.",
+      "media": {
+        "posterPage": "https://filmdata.ir/movie/m908710716012",
+        "gallery": [
+          {
+            "title": "پوستر نبرد بادبادک‌ها",
+            "url": "https://filmdata.ir/movie/m908710716012",
+            "type": "source"
+          }
+        ],
+        "trailers": [
+          {
+            "title": "آنونس رسمی نبرد بادبادک‌ها",
+            "url": "https://www.tasnimnews.ir/fa/news/1405/08/05/3733752/آنونس-رسمی-نبرد-بادبادک-ها-منتشر-شد",
+            "type": "source"
+          }
+        ]
+      }
     },
     {
       "slug": "hashieh",
@@ -46,20 +85,67 @@
       "source": "https://www.honaronline.ir/بخش-سینما-6/208804-تصاحب-صدر-جدول-توسط-بورسیه-سینما-حاشیه-دار-شد",
       "sourceLabel": "هنرآنلاین، ۱۳ آبان",
       "verified": "۱۴۰۵/۰۸/۱۶",
-      "summary": "فیلمی در ژانر جنایی و معمایی به تهیه‌کنندگی یوسف منصوری."
+      "summary": "فیلمی در ژانر جنایی و معمایی به تهیه‌کنندگی یوسف منصوری.",
+      "media": {
+        "poster": "https://www.asianewsiran.com/Content/media/image/2026/02/%D9%BE%D9%88%D8%B3%D8%AA%D8%B1%20%D9%81%DB%8C%D9%84%D9%85%20%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C%20%D8%AD%D8%A7%D8%B4%DB%8C%D9%87_57624.jpg",
+        "posterPage": "https://www.asianewsiran.com/fa/newsagency/36526/movie-hamesheh-fajr-festival",
+        "gallery": [
+          {
+            "title": "پوستر فیلم حاشیه",
+            "url": "https://www.asianewsiran.com/Content/media/image/2026/02/%D9%BE%D9%88%D8%B3%D8%AA%D8%B1%20%D9%81%DB%8C%D9%84%D9%85%20%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C%20%D8%AD%D8%A7%D8%B4%DB%8C%D9%87_57624.jpg",
+            "type": "image",
+            "source": "https://www.asianewsiran.com/fa/newsagency/36526/movie-hamesheh-fajr-festival"
+          },
+          {
+            "title": "تصاویر مراسم اکران حاشیه",
+            "url": "https://aftabevatan.ir/اکران-فیلم-سینمایی-حاشیه/",
+            "type": "source"
+          }
+        ],
+        "trailers": [
+          {
+            "title": "پوستر و تیزر رسمی حاشیه",
+            "url": "https://inteen.ir/پوستر-و-تیزر-فیلم-حاشیه-منتشر-شد-فیل/45212/",
+            "type": "source"
+          }
+        ]
+      }
     },
     {
       "slug": "man-mitarsam",
       "title": "من می‌ترسم",
-      "genre": "نامشخص",
-      "director": null,
-      "cast": [],
+      "genre": "درام",
+      "director": "بهنام بهزادی",
+      "cast": [
+        "الناز شاکردوست",
+        "امیر جعفری",
+        "ستاره پسیانی",
+        "مهران احمدی"
+      ],
       "release": "۱۴۰۵/۰۷/۲۹",
       "status": "تاریخ آغاز اکران اعلام شده؛ اجرای واقعی و سانس امروز هنوز تأیید نشده",
-      "source": "https://www.tasnimnews.ir/fa/news/1405/07/26/3726109/بورسیه-و-بادبادک-ها-از-6-آبان-به-سینماها-می-آیند",
-      "sourceLabel": "تسنیم، ۲۶ مهر",
+      "source": "https://flato.ir/release-date-of-the-film-im-afraid/",
+      "sourceLabel": "فلاتو، ۲۷ مهر ۱۴۰۵",
       "verified": "۱۴۰۵/۰۸/۱۶",
-      "summary": "برنامه اکران به ۲۹ مهر منتقل شده بود. وضعیت سالن‌های فعلی هنوز تأیید نشده است."
+      "summary": "برنامه اکران به ۲۹ مهر منتقل شده بود. وضعیت سالن‌های فعلی هنوز تأیید نشده است.",
+      "media": {
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGU0NjgyNzgtYmYwMy00OTEyLWJiNzgtYWZmNDkzZWNlNWIzXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+        "posterPage": "https://www.imdb.com/title/tt11773696/",
+        "gallery": [
+          {
+            "title": "پوستر فیلم من می‌ترسم",
+            "url": "https://m.media-amazon.com/images/M/MV5BOGU0NjgyNzgtYmYwMy00OTEyLWJiNzgtYWZmNDkzZWNlNWIzXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+            "type": "image",
+            "source": "https://www.imdb.com/title/tt11773696/"
+          },
+          {
+            "title": "پوستر تازه اکران",
+            "url": "https://flato.ir/release-date-of-the-film-im-afraid/",
+            "type": "source"
+          }
+        ],
+        "trailers": []
+      }
     },
     {
       "slug": "khanom-valedeh",
@@ -78,7 +164,24 @@
       "source": "https://telegram.me/s/cinemabahman97_official?before=9791",
       "sourceLabel": "اطلاع‌رسانی سینما بهمن درباره آغاز اکران سراسری",
       "verified": "۱۴۰۵/۰۸/۱۶",
-      "summary": "کمدی سینمایی به کارگردانی سهیل موفق و تهیه‌کنندگی سید ابراهیم عامریان؛ ماجرای دو برادر بدهکار و ارثیه‌ای غیرمنتظره."
+      "summary": "کمدی سینمایی به کارگردانی سهیل موفق و تهیه‌کنندگی سید ابراهیم عامریان؛ ماجرای دو برادر بدهکار و ارثیه‌ای غیرمنتظره.",
+      "media": {
+        "posterPage": "https://vista.ir/t/1/خانوم+والده",
+        "gallery": [
+          {
+            "title": "پوستر فیلم خانوم والده",
+            "url": "https://vista.ir/t/1/خانوم+والده",
+            "type": "source"
+          }
+        ],
+        "trailers": [
+          {
+            "title": "تیزر خانوم والده",
+            "url": "https://vista.ir/t/7/خانوم+والده",
+            "type": "source"
+          }
+        ]
+      }
     },
     {
       "slug": "bi-dar",
@@ -97,7 +200,24 @@
       "source": "https://www.honaronline.ir/بخش-سینما-6/208578-پوستر-بی-دار-رونمایی-شد",
       "sourceLabel": "هنرآنلاین؛ گزارش آغاز اکران",
       "verified": "۱۴۰۵/۰۸/۱۶",
-      "summary": "فیلمی به کارگردانی و تهیه‌کنندگی حسین دوماری، با حضور مشترک شهاب حسینی و محمدرضا فروتن؛ جزئیات رسمی داستان محدود است."
+      "summary": "فیلمی به کارگردانی و تهیه‌کنندگی حسین دوماری، با حضور مشترک شهاب حسینی و محمدرضا فروتن؛ جزئیات رسمی داستان محدود است.",
+      "media": {
+        "posterPage": "https://www.honaronline.ir/بخش-سینما-6/208578-پوستر-بی-دار-رونمایی-شد",
+        "gallery": [
+          {
+            "title": "پوستر رسمی بی‌دار",
+            "url": "https://www.honaronline.ir/بخش-سینما-6/208578-پوستر-بی-دار-رونمایی-شد",
+            "type": "source"
+          },
+          {
+            "title": "تصویر پوستر و بازیگر",
+            "url": "https://lilit.ir/newspaper/172992/",
+            "type": "source"
+          }
+        ],
+        "trailers": []
+      }
     }
-  ]
+  ],
+  "mediaPolicy": "رسانه‌های دارای type=image پیوند مستقیم عکس هستند؛ type=source نشانی صفحهٔ ناشر برای مشاهدهٔ پوستر، عکس یا تیزر است. نبود فایل مستقیم نباید به معنای وجود فایل ویدئو تعبیر شود."
 }
